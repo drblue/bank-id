@@ -1,12 +1,12 @@
 {
-    "name": "dimafe6/bank-id",
+    "name": "drblue/bank-id",
     "type": "library",
     "description": "Library for Swedish BankID",
     "keywords": [
-        "dimafe6",
+        "drblue",
         "bank-id"
     ],
-    "homepage": "https://github.com/dimafe6/bank-id",
+    "homepage": "https://github.com/drblue/bank-id",
     "license": "MIT",
     "authors": [
         {
@@ -16,6 +16,10 @@
         {
             "name": "Oleg Davudyuk",
             "email": "ilveann@gmail.com"
+        },
+        {
+            "name": "Johan Nordström",
+            "email": "johan@digitalvillage.se"
         }
 
     ],
@@ -28,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dimafe6\\BankID\\": "src"
+            "WTP\\BankID\\": "src"
         }
     },
     "autoload-dev": {
