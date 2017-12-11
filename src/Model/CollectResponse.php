@@ -1,12 +1,12 @@
 <?php
 
-namespace Dimafe6\BankID\Model;
+namespace WTP\BankID\Model;
 
 /**
  * Class CollectResponse
  *
  * @category PHP
- * @package  Dimafe6\BankID\Model
+ * @package  WTP\BankID\Model
  * @author   Dmytro Feshchenko <dimafe2000@gmail.com>
  */
 class CollectResponse

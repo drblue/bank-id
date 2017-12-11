@@ -1,9 +1,9 @@
 <?php
 
-namespace Dimafe6\BankID\Service;
+namespace WTP\BankID\Service;
 
-use Dimafe6\BankID\Model\CollectResponse;
-use Dimafe6\BankID\Model\OrderResponse;
+use WTP\BankID\Model\CollectResponse;
+use WTP\BankID\Model\OrderResponse;
 use PHPUnit\Framework\TestCase;
 
 class BankIDServiceTest extends TestCase

@@ -1,6 +1,6 @@
 <?php
 
-namespace Dimafe6\BankID\Model;
+namespace WTP\BankID\Model;
 
 class OrderResponse
 {

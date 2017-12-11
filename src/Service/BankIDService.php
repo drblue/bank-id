@@ -1,16 +1,16 @@
 <?php
 
-namespace Dimafe6\BankID\Service;
+namespace WTP\BankID\Service;
 
-use Dimafe6\BankID\Model\CollectResponse;
-use Dimafe6\BankID\Model\OrderResponse;
+use WTP\BankID\Model\CollectResponse;
+use WTP\BankID\Model\OrderResponse;
 use SoapClient;
 
 /**
  * Class BankIDService
  *
  * @category PHP
- * @package  Dimafe6\BankID\Service
+ * @package  WTP\BankID\Service
  * @author   Dmytro Feshchenko <dimafe2000@gmail.com>
  */
 class BankIDService
